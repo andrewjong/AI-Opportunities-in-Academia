@@ -6,23 +6,25 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 ## Internships
 
 #### Schools
-- UC Berkeley Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) [website](https://eecs.berkeley.edu/resources/undergrads/research/superb)
+- **UC Berkeley** - Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) [website](https://eecs.berkeley.edu/resources/undergrads/research/superb)
   - Undergrad only
-- Stanford Center for the Study of Language and Information Summer Internship (CSLI) [website](https://www-csli.stanford.edu/csli-summer-internship-program)
-  - Undergrad only
+- **Stanford** - Center for the Study of Language and Information Summer Internship (CSLI) [website](https://www-csli.stanford.edu/csli-summer-internship-program)
   - NLP
-- CMU HCII Summer Research Program [website](https://hcii.cmu.edu/summer-research-program)
   - Undergrad only
+- **Carnegie Mellon University** - HCII Summer Research Program [website](https://hcii.cmu.edu/summer-research-program)
   - Computer vision, human understanding, NLP
-- CMU Robitics Institute Summer Scholars [website](https://riss.ri.cmu.edu/)
   - Undergrad only
+- **Carnegie Mellon University** - Robitics Institute Summer Scholars [website](https://riss.ri.cmu.edu/)
   - Reinforcement learning, computer vision
-- MILA [website](https://mila.quebec/en/admission-process-for-interns/)
-  - Undergrad and grad
+  - Undergrad only
+- **MILA** - [website](https://mila.quebec/en/admission-process-for-interns/)
   - Yoshua Bengio's lab
+  - Undergrad and grad
+- **University of Southern California** - Robotics and Autonomous Systems [website](https://www.cs.usc.edu/reu/)
+- **University of Southern California** - Institute for Creative Technologies [website](https://ict.usc.edu/internships/)
 
 #### Research Labs
-- SULI 
+- Science Undergraduate Laboratory Internships (SULI)
 - MBARI
 - NASA JPL
 - NASA Ames
