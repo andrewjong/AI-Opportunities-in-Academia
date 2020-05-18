@@ -8,6 +8,7 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 ### Universities
 - **UC Berkeley** - Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) [website](https://eecs.berkeley.edu/resources/undergrads/research/superb)
   - Undergrad only
+- **UC Berkeley** - Center for Human-Compatible Artificial Intelligence [website](https://humancompatible.ai/jobs)
 - **Stanford** - Center for the Study of Language and Information Summer Internship (CSLI) [website](https://www-csli.stanford.edu/csli-summer-internship-program)
   - NLP
   - Undergrad only
