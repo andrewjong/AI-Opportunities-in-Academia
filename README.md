@@ -1,7 +1,7 @@
 # AI Opportunities in Academia
 A list of opportunities for undergraduate and graduate students looking for solid academic opportunities in AI.
 
-Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example, Stanford's CSLI institute brings together several fields, but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc.
+Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc.
 
 ## Internships
 
