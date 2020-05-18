@@ -13,6 +13,8 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
   - Computer vision, human understanding, NLP
 - CMU Robitics Institute Summer Scholars [website](https://riss.ri.cmu.edu/)
   - Reinforcement learning, computer vision
+- MILA [website](https://mila.quebec/en/admission-process-for-interns/)
+  - Yoshua Bengio's lab
 
 #### Research Labs
 - SULI 
