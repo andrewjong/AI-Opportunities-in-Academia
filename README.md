@@ -11,7 +11,7 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 - **Stanford** - Center for the Study of Language and Information Summer Internship (CSLI) [website](https://www-csli.stanford.edu/csli-summer-internship-program)
   - NLP
   - Undergrad only
-- **Carnegie Mellon University** - HCII Summer Research Program [website](https://hcii.cmu.edu/summer-research-program)
+- **Carnegie Mellon University** - Human Computer Interaction Institute Summer Research Program [website](https://hcii.cmu.edu/summer-research-program)
   - Computer vision, human understanding, NLP
   - Undergrad only
 - **Carnegie Mellon University** - Robitics Institute Summer Scholars [website](https://riss.ri.cmu.edu/)
