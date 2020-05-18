@@ -25,9 +25,11 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 
 ### Research Labs
 - Science Undergraduate Laboratory Internships (SULI)
+  - Machine learning for energy and physics research
 - MBARI
-- NASA JPL
-- NASA Ames
+  - Underwater robotics
+- NASA JPL [website](https://www.jpl.nasa.gov/edu/intern/apply/)
+- NASA Ames [website](https://intern.nasa.gov/)
 
 ### Tech Industry
 If you have an AI background, the big tech companies can most likely match you to a publishable AI project. You don't need to be in a dedicated AI program at these companies to land an AI project.
