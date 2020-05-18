@@ -12,6 +12,7 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 - CMU HCII Summer Research Program [website](https://hcii.cmu.edu/summer-research-program)
   - Computer vision, human understanding, NLP
 - CMU Robitics Institute Summer Scholars [website](https://riss.ri.cmu.edu/)
+  - Reinforcement learning, computer vision
 
 #### Research Labs
 - SULI 
