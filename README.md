@@ -7,7 +7,7 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 Contributions are welcome and much appreciated! Please open a pull request with information in a similar format as below. Preferably, link directly to the internship information website.
 
 ## Internships
-Generally, Google something like "REU research experience for undergraduates artificial intelligence" to find academic internships.
+Generally, Google something like "[REU research experience for undergraduates artificial intelligence](https://www.google.com/search?q=REU+research+experience+for+undergraduates+artificial+intelligence&oq=REU+research+experience+for+undergraduates+artificial+intelligence)" to find academic internships.
 
 ### Universities
 - **UC Berkeley** - [Summer Undergraduate Program in Engineering Research at Berkeley](https://eecs.berkeley.edu/resources/undergrads/research/superb) (SUPERB)
