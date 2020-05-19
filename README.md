@@ -25,7 +25,7 @@ Contributions are welcome and much appreciated! Please open a pull request with 
   - Undergrad only
 - **MILA** - [website](https://mila.quebec/en/admission-process-for-interns/)
   - Yoshua Bengio's lab
-  - Undergrad and grad
+  - Grad or undergrad
 - **MIT** - MIT Summer Research Program [website](https://oge.mit.edu/graddiversity/msrp/)
   - Undergrad only
 - **University of Southern California** - Robotics and Autonomous Systems [website](https://www.cs.usc.edu/reu/)
@@ -38,11 +38,11 @@ Contributions are welcome and much appreciated! Please open a pull request with 
   - Machine learning for energy and physics research at various national institutions, e.g. Lawrence Livermore National Lab, Lawrence Berkeley National Lab, SLAC National Accelerator Laboratory, etc. [website](https://science.osti.gov/wdts/suli)
 - MBARI [website](https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/)
   - Underwater robotics
-  - Undergrad and grad
+  - Grad or undergrad
 - NASA JPL [website](https://www.jpl.nasa.gov/edu/intern/apply/)
-  - Undergrad and grad
+  - Grad or undergrad
 - NASA Ames [website](https://intern.nasa.gov/)
-  - Undergrad and grad
+  - Grad or undergrad
 
 ### Tech Industry
 If you have an AI background, the big tech companies can most likely match you to a publishable AI project. You don't need to be in a dedicated AI program at these companies to land a project in AI.
