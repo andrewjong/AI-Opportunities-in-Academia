@@ -8,7 +8,7 @@ General tip to find AI academia internships: Google something like "REU research
 ## Contributing
 Contributions are welcome! Please open a pull request with information in a similar format as below.
 
-## Academic Internships
+## Internships
 
 ### Universities
 - **UC Berkeley** - Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) [website](https://eecs.berkeley.edu/resources/undergrads/research/superb)
