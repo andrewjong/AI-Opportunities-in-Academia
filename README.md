@@ -10,38 +10,40 @@ Contributions are welcome and much appreciated! Please open a pull request with 
 Generally, Google something like "REU research experience for undergraduates artificial intelligence" to find academic internships.
 
 ### Universities
-- **UC Berkeley** - Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) [website](https://eecs.berkeley.edu/resources/undergrads/research/superb)
+- **UC Berkeley** - [Summer Undergraduate Program in Engineering Research at Berkeley](https://eecs.berkeley.edu/resources/undergrads/research/superb) (SUPERB)
   - Undergrad only
-- **UC Berkeley** - Center for Human-Compatible Artificial Intelligence [website](https://humancompatible.ai/jobs)
-- **Stanford** - Center for the Study of Language and Information Summer Internship (CSLI) [website](https://www-csli.stanford.edu/csli-summer-internship-program)
+- **UC Berkeley** - [Center for Human-Compatible Artificial Intelligence](https://humancompatible.ai/jobs)
+- **Stanford** - [Center for the Study of Language and Information Summer Internship](https://www-csli.stanford.edu/csli-summer-internship-program) (CSLI)
   - NLP
   - Undergrad only
-- **Carnegie Mellon University** - Human Computer Interaction Institute Summer Research Program [website](https://hcii.cmu.edu/summer-research-program)
+- **Carnegie Mellon University** - [Human Computer Interaction Institute Summer Research Program](https://hcii.cmu.edu/summer-research-program)
   - Computer vision, human understanding, NLP
   - Undergrad only
-- **Carnegie Mellon University** - Robitics Institute Summer Scholars [website](https://riss.ri.cmu.edu/)
+- **Carnegie Mellon University** - [Robitics Institute Summer Scholars](https://riss.ri.cmu.edu/)
   - Reinforcement learning, computer vision
   - Undergrad only
-- **MILA** - [website](https://mila.quebec/en/admission-process-for-interns/)
-  - Yoshua Bengio's lab
+- **MILA** - [Year-round Internship](https://mila.quebec/en/admission-process-for-interns/)
+  - Led by Yoshua Bengio's lab
   - Grad or undergrad
-- **MIT** - MIT Summer Research Program [website](https://oge.mit.edu/graddiversity/msrp/)
+- **MIT** - [MIT Summer Research Program](https://oge.mit.edu/graddiversity/msrp/)
   - Undergrad only
-- **University of Southern California** - Robotics and Autonomous Systems [website](https://www.cs.usc.edu/reu/)
+- **University of Southern California** - [Robotics and Autonomous Systems](https://www.cs.usc.edu/reu/)
   - Undergrad only
-- **University of Southern California** - Institute for Creative Technologies [website](https://ict.usc.edu/internships/)
+- **University of Southern California** - [Institute for Creative Technologies](https://ict.usc.edu/internships/)
   - Undergrad only
 
 ### Research Labs
-- Science Undergraduate Laboratory Internships (SULI)
-  - Machine learning for energy and physics research at various national institutions, e.g. Lawrence Livermore National Lab, Lawrence Berkeley National Lab, SLAC National Accelerator Laboratory, etc. [website](https://science.osti.gov/wdts/suli)
-- MBARI [website](https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/)
+- [Science Undergraduate Laboratory Internships](https://science.osti.gov/wdts/suli) (SULI)
+  - Machine learning for energy and physics research at various national institutions, e.g. Lawrence Livermore National Lab, Lawrence Berkeley National Lab, SLAC National Accelerator Laboratory, etc.
+- [Monterey Bay Aquarium Research Institute](https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/) (MBARI)
   - Underwater robotics
   - Grad or undergrad
-- NASA JPL [website](https://www.jpl.nasa.gov/edu/intern/apply/)
+- [NASA JPL](https://www.jpl.nasa.gov/edu/intern/apply/)
   - Grad or undergrad
-- NASA Ames [website](https://intern.nasa.gov/)
+  - Robotics, autonomy
+- [NASA Ames](https://intern.nasa.gov/)
   - Grad or undergrad
+  - Robotics, autonomy
 
 ### Tech Industry
 If you have an AI background, the big tech companies can most likely match you to a publishable AI project. You don't need to be in a dedicated AI program at these companies to land a project in AI.
