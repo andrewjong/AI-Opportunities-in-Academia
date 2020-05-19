@@ -1,5 +1,5 @@
 # AI Opportunities in Academia
-Resources for undergraduate students looking for solid academic opportunities in AI.
+Resources for undergraduate and graduate students looking for solid academic opportunities in AI.
 
 Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc. MIT's MSRP program covers a broad range of disciplines, but you can be matched with a faculty member in CSAIL.
 
