@@ -6,7 +6,7 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 General tip to find AI academia internships: Google something like "REU research experience for undergraduates artificial intelligence".
 
 ## Contributing
-Contributions are welcome! Please open a pull request with information in a similar format as below.
+Contributions are welcome and much appreciated! Please open a pull request with information in a similar format as below.
 
 ## Internships
 
