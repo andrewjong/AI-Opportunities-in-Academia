@@ -33,7 +33,7 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 - NASA Ames [website](https://intern.nasa.gov/)
 
 ### Tech Industry
-If you have an AI background, the big tech companies can most likely match you to a publishable AI project. You don't need to be in a dedicated AI program at these companies to land an AI project.
+If you have an AI background, the big tech companies can most likely match you to a publishable AI project. You don't need to be in a dedicated AI program at these companies to land a project in AI.
 - Google, Facebook, Microsoft, NVIDIA
 - Allen Institute for AI
 
