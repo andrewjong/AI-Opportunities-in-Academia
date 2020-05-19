@@ -27,16 +27,22 @@ Contributions are welcome and much appreciated! Please open a pull request with 
   - Yoshua Bengio's lab
   - Undergrad and grad
 - **MIT** - MIT Summer Research Program [website](https://oge.mit.edu/graddiversity/msrp/)
+  - Undergrad only
 - **University of Southern California** - Robotics and Autonomous Systems [website](https://www.cs.usc.edu/reu/)
+  - Undergrad only
 - **University of Southern California** - Institute for Creative Technologies [website](https://ict.usc.edu/internships/)
+  - Undergrad only
 
 ### Research Labs
 - Science Undergraduate Laboratory Internships (SULI)
-  - Machine learning for energy and physics research at various national institutions, e.g. LLNL, LBNL, SLAC
-- MBARI
+  - Machine learning for energy and physics research at various national institutions, e.g. Lawrence Livermore National Lab, Lawrence Berkeley National Lab, SLAC National Accelerator Laboratory, etc. [website](https://science.osti.gov/wdts/suli)
+- MBARI [website](https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/)
   - Underwater robotics
+  - Undergrad and grad
 - NASA JPL [website](https://www.jpl.nasa.gov/edu/intern/apply/)
+  - Undergrad and grad
 - NASA Ames [website](https://intern.nasa.gov/)
+  - Undergrad and grad
 
 ### Tech Industry
 If you have an AI background, the big tech companies can most likely match you to a publishable AI project. You don't need to be in a dedicated AI program at these companies to land a project in AI.
