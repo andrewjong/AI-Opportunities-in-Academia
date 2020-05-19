@@ -4,7 +4,7 @@ Resources for undergraduate and graduate students looking for solid academic opp
 Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc. MIT's MSRP program covers a broad range of disciplines, but you can be matched with a faculty member in CSAIL.
 
 ## Contributing
-Contributions are welcome and much appreciated! Please open a pull request with information in a similar format as below.
+Contributions are welcome and much appreciated! Please open a pull request with information in a similar format as below. Preferably, link directly to the internship information website.
 
 ## Internships
 Generally, Google something like "REU research experience for undergraduates artificial intelligence" to find academic internships.
@@ -38,12 +38,12 @@ Generally, Google something like "REU research experience for undergraduates art
 - [Monterey Bay Aquarium Research Institute](https://www.mbari.org/products/educational-resources/mbari-summer-internship-program/) (MBARI)
   - Underwater robotics
   - Grad or undergrad
-- [NASA JPL](https://www.jpl.nasa.gov/edu/intern/apply/)
+- [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/edu/intern/apply/)
   - Grad or undergrad
-  - Robotics, autonomy
+  - Space robotics, autonomy, aviation
 - [NASA Ames](https://intern.nasa.gov/)
   - Grad or undergrad
-  - Robotics, autonomy
+  - Space robotics, autonomy
 
 ### Tech Industry
 If you have an AI background, the big tech companies can most likely match you to a publishable AI project. You don't need to be in a dedicated AI program at these companies to land a project in AI.
