@@ -22,7 +22,7 @@ Generally, Google something like "REU research experience for undergraduates art
 - **Carnegie Mellon University** - [Robitics Institute Summer Scholars](https://riss.ri.cmu.edu/)
   - Reinforcement learning, computer vision
   - Undergrad only
-- **MILA** - [Year-round Internship](https://mila.quebec/en/admission-process-for-interns/)
+- **Mila** - [Year-round Internship](https://mila.quebec/en/admission-process-for-interns/)
   - Led by Yoshua Bengio (one of the 3 "fathers" of DL)
   - Grad or undergrad
 - **MIT** - [MIT Summer Research Program](https://oge.mit.edu/graddiversity/msrp/)
