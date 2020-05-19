@@ -3,7 +3,7 @@ A list of opportunities for undergraduate students looking for solid academic op
 
 Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc.
 
-Tip to find more: Google something along the lines of "REU research experience for undergraduates artificial intelligence"
+General tip to find AI academia internships: Google something like "REU research experience for undergraduates artificial intelligence".
 
 ## Contributing
 Contributions are welcome! Please open a pull request with the information formatted similarly to below.
