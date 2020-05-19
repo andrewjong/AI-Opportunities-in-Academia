@@ -3,6 +3,11 @@ A list of opportunities for undergraduate students looking for solid academic op
 
 Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc.
 
+Tip to find more: Google something along the lines of "REU research experience for undergraduates artificial intelligence"
+
+## Contributing
+Contributions are welcome! Please open a pull request with the information formatted similarly to below.
+
 ## Academic Internships
 
 ### Universities
@@ -21,12 +26,13 @@ Some of these programs are not explicitly centered on AI/ML/DL, but still offer 
 - **MILA** - [website](https://mila.quebec/en/admission-process-for-interns/)
   - Yoshua Bengio's lab
   - Undergrad and grad
+- **MIT** - MIT Summer Research Program [website](https://oge.mit.edu/graddiversity/msrp/)
 - **University of Southern California** - Robotics and Autonomous Systems [website](https://www.cs.usc.edu/reu/)
 - **University of Southern California** - Institute for Creative Technologies [website](https://ict.usc.edu/internships/)
 
 ### Research Labs
 - Science Undergraduate Laboratory Internships (SULI)
-  - Machine learning for energy and physics research
+  - Machine learning for energy and physics research at various national institutions, e.g. LLNL, LBNL, SLAC
 - MBARI
   - Underwater robotics
 - NASA JPL [website](https://www.jpl.nasa.gov/edu/intern/apply/)
