@@ -1,14 +1,13 @@
 # AI Opportunities in Academia
 A list of opportunities for undergraduate students looking for solid academic opportunities in AI.
 
-Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc.
-
-General tip to find AI academia internships: Google something like "REU research experience for undergraduates artificial intelligence".
+Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc. MIT's MSRP program covers a broad range of disciplines, but you can be matched with a faculty member in CSAIL.
 
 ## Contributing
 Contributions are welcome and much appreciated! Please open a pull request with information in a similar format as below.
 
 ## Internships
+Generally, Google something like "REU research experience for undergraduates artificial intelligence" to find academic internships.
 
 ### Universities
 - **UC Berkeley** - Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) [website](https://eecs.berkeley.edu/resources/undergrads/research/superb)
