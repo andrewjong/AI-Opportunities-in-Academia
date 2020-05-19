@@ -55,6 +55,9 @@ If you have an AI background, the big tech companies can most likely match you t
 These are better Googled, but here is a short list.
 - NSF GRFP
 - NDSEG
-- Hertz (very very difficult)
+- Hertz (extremely selective)
 - Ford
     - specifically for those interested in teaching
+- [Open Phil Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship)
+    - Fellowship by the Open Philanthrophy Project
+    - Grad (PhD) only
