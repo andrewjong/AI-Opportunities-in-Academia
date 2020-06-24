@@ -4,7 +4,7 @@ Resources for undergraduate and graduate students looking for solid academic opp
 Some of these programs are not explicitly centered on AI/ML/DL, but still offer the perfect opportunity to study AI. For example---Stanford's CSLI institute brings together language, psychology, and philosophy---but its members regularly publish in top NLP conferences such as EMNLP, ACL, etc. MIT's MSRP program covers a broad range of disciplines, but you can be matched with a faculty member in CSAIL.
 
 ## Contributing
-Contributions are welcome and much appreciated! Please open a pull request with information in a similar format as below. Preferably, link directly to the internship information website.
+Contributions are welcome and much appreciated! Please open a pull request with information in a similar format as below. Please link directly to the internship information website.
 
 ## Internships
 Generally, Google something like "[REU research experience for undergraduates artificial intelligence](https://www.google.com/search?q=REU+research+experience+for+undergraduates+artificial+intelligence&oq=REU+research+experience+for+undergraduates+artificial+intelligence)" to find academic internships.
