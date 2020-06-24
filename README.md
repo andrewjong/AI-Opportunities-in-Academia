@@ -52,6 +52,7 @@ If you have an AI background, the big tech companies can most likely match you t
 
 ## Scholarships
 - [Barry Goldwater Scholarship](https://goldwater.scholarsapply.org/)
+  - Undergrad sophomore or junior
 
 ## Fellowships
 These are better Googled, but here is a short list.
