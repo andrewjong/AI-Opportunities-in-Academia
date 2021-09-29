@@ -22,6 +22,9 @@ Generally, Google something like "[REU research experience for undergraduates ar
 - **Carnegie Mellon University** - [Robitics Institute Summer Scholars](https://riss.ri.cmu.edu/)
   - Reinforcement learning, computer vision
   - Undergrad only
+- **Carnegie Mellon University** - [SURF](https://www.cmu.edu/uro/summer%20research%20fellowships/SURF/)
+  - Paid research for any topic
+  - Undergrad only
 - **Mila** - [Year-round Internship](https://mila.quebec/en/admission-process-for-interns/)
   - Led by Yoshua Bengio (one of the 3 "fathers" of DL)
   - Grad or undergrad
